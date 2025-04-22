@@ -1,0 +1,45 @@
+# Compiled binary files
+bin/
+obj/
+
+# User-specific and IDE files
+.vs/
+*.user
+*.suo
+*.vcxproj*
+
+# Build output
+out/
+AppPackages/
+BundleArtifacts/
+
+# Logs and debug files
+*.log
+*.tlog
+*.ilk
+*.pdb
+
+# NuGet and package manager
+*.nupkg
+packages/
+project.lock.json
+
+# Secrets and sensitive files
+secrets.json
+appsettings.Development.json
+
+# Entity Framework migrations
+Migrations/
+
+# Rider and JetBrains IDE
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Resharper
+_ReSharper.Caches/
+
+# Other
+*.cache
+*.bak
